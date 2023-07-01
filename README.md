@@ -8,7 +8,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning **Flutter** , Django & React<br><br>💬 Ask me about **Flutter, Sql, Firebase, Frontend**<br><br>📫 How to reach me utsav7005@gmail.com<br><br>⚡ Fun fact - Flutter the goat<br><br><br>
+<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Flutter<br><br>💬 Ask me about Flutter, Sql, Firebase, Frontend<br><br>📫 How to reach me utsav7005@gmail.com<br><br>⚡ Fun fact - Flutter the goat<br><br><br>
 
 # 🌐 Socials:
 <p align="left">
