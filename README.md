@@ -1,14 +1,12 @@
 <h1 align="center">Hey folks🙌, I'm Utsav💫</h1>
 <h3 align="center">A passionate frontend and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav7005&label=Profile%20Visitors&color=0e75b6&style=flat" alt="utsav7005" /> </p>
-
 
 <p align="left"> <a href="https://twitter.com/ayoo_utsav" target="blank"><img src="https://img.shields.io/twitter/follow/ayoo_utsav?logo=twitter&style=for-the-badge" alt="ayoo_utsav" /></a> </p>
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Flutter<br><br>💬 Ask me about Flutter, Sql, Firebase, Frontend<br><br>📫 How to reach me utsav7005@gmail.com<br><br>⚡ Fun fact - Flutter the goat<br><br><br>
+<br><br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning Flutter<br><br>💬 Ask me about Flutter, Sql, Firebase, Frontend<br><br>📫 How to reach me utsav7005@gmail.com<br><br>⚡ Fun fact - Flutter the goat<br><br><br>
 
 # 🌐 Socials:
 <p align="left">
