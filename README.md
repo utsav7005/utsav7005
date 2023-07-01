@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Utsav</h1>
+<h1 align="center">Hey folks🙌, I'm Utsav💫</h1>
 <h3 align="center">A passionate frontend and software developer</h3>
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
@@ -6,6 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ayoo_utsav" target="blank"><img src="https://img.shields.io/twitter/follow/ayoo_utsav?logo=twitter&style=for-the-badge" alt="ayoo_utsav" /></a> </p>
 
+# 💫 About Me:
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Flutter, Sql, Firebase, Frontend**
