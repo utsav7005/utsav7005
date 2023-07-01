@@ -1,7 +1,8 @@
 <h1 align="center">Hey folks🙌, I'm Utsav💫</h1>
 <h3 align="center">A passionate frontend and software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav7005&label=Profile%20views&color=0e75b6&style=flat" alt="utsav7005" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsav7005&label=Profile%20Visitors&color=0e75b6&style=flat" alt="utsav7005" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/ayoo_utsav" target="blank"><img src="https://img.shields.io/twitter/follow/ayoo_utsav?logo=twitter&style=for-the-badge" alt="ayoo_utsav" /></a> </p>
 
